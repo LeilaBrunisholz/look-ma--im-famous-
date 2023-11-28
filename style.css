@@ -1,8 +1,6 @@
 .hero-card{
-<<<<<<< HEAD
         background-image: linear-gradient(rgb(199, 63, 63),white,rgb(83, 83, 192));
     }
-=======
-    background-image: linear-gradient(rgb(199, 63, 63),white,rgb(83, 83, 192));
-}
->>>>>>> 8f062d94d281b6fa14ff4216a5588d9d4efccf18
+.whole  {
+ background-color:rgb(189, 207, 235);
+ }
